@@ -1,3 +1,11 @@
+<div align="center" display="none">
+  <img src="https://profile-counter.glitch.me/lsh9132/count.svg?"  />
+</div>
+
+---
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -74,12 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<div align="center" display="none">
-  <img src="https://profile-counter.glitch.me/lsh9132/count.svg?"  />
 </div>
 
 ###
