@@ -1,4 +1,4 @@
-![image](https://tenor.com/ko/view/dog-meme-bom-dia-gif-11333912755061888862)
+![image]([https://tenor.com/ko/view/dog-meme-bom-dia-gif-11333912755061888862](https://tenor.com/ko/view/dog-meme-bom-dia-gif-11333912755061888862))
 
 
 ---
