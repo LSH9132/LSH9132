@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/2881c443-3ab9-4d9a-a564-5152b22f24da)
+<p align="center">
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" loop=infinite> 
+</div>
 
 
 
