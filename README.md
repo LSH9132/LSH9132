@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/63e54b6c-c01f-4545-8016-e13f6d1abc19](https://tenor.com/ko/view/dog-meme-bom-dia-gif-11333912755061888862))
+![image](https://tenor.com/ko/view/dog-meme-bom-dia-gif-11333912755061888862)
 
 
 ---
